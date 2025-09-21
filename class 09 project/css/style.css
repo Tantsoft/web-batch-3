@@ -101,3 +101,83 @@
 
   background-color: #000;
 }
+/* donation end */
+
+/* need start */
+#need {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.need {
+  display: flex;
+  padding-top: 50px;
+}
+
+.need-text {
+  padding-top: 50px;
+  width: 585px;
+}
+
+.need-text button {
+  background-color: #ef233c;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+
+  cursor: pointer;
+}
+
+.need-text h2 {
+  font-size: 45px;
+  color: #121212;
+}
+
+.need-text p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  color: #707070;
+}
+.need-img {
+  width: 585px;
+  height: 500px;
+}
+/* need end */
+/* depend start  */
+#depend {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.depend-text h2 {
+  font-size: 45px;
+  color: #121212;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.depend-text p {
+  font-size: 18px;
+  color: #707070;
+  text-align: center;
+}
+
+.depend-card {
+  padding-top: 40px;
+  display: flex;
+}
+
+.card-main {
+  background-color: #fef4f5;
+  margin-top: 20px;
+  display: flex;
+  width: 500px;
+  padding: 20px;
+  margin-left: 20px;
+}
+.card-text {
+  padding-left: 10px;
+}
+/* depend end  */
